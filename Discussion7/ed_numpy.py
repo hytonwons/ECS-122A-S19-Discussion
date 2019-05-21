@@ -20,8 +20,8 @@ def editDistDP(x, y):
             else:
                 e[i][j] = 1 + min(e[i-1][j], e[i][j-1], e[i-1][j-1])
 
-    return e[m][n]
-    # return e
+    # return e[m][n]
+    return e
 
 # Test case 1
 # x = "snowy"
