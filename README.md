@@ -1,5 +1,7 @@
 # ECS-122A-S19-Discussion
-Discussion Notes for ECS-122A "Algorithm Design and Analysis" Spring 2019 at UC Davis
+Discussion Notes for ECS-122A "Algorithm Design and Analysis" Spring 2019 at UC Davis.
+
+Copyright © 2019 Ji Wang, UC Davis. All rights reseverd.
 
 #### Week 1
 1. Mathematical Induction
