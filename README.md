@@ -23,7 +23,6 @@ Discussion Notes for ECS-122A "Algorithm Design and Analysis" 2019 Spring at UC 
 3. Solving Recurrence Relation:
    - Substitution method
    - Master theorem
-   - 
 4. Divide and Conquer: Chip Testing
 
 -------------------------------------------------------------------------------------
