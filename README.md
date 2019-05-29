@@ -64,4 +64,3 @@ Greedy Algorithms: Off-line Caching
 1. Minimum Spanning Tree
 2. Single-Source Shortest Paths
 3. MST VS SSSP
-4. Proofs of Shortest Paths (optional)
