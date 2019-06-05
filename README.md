@@ -64,3 +64,11 @@ Greedy Algorithms: Off-line Caching
 1. Minimum Spanning Tree
 2. Single-Source Shortest Paths
 3. MST VS SSSP
+
+-------------------------------------------------------------------------------------
+#### Week 10
+
+Review Homework 8
+
+1.	P, NP, NP-complete
+2.	How to prove a problem is NP-complete
